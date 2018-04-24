@@ -1,0 +1,6 @@
+2018-04-23 20:09:24,819 -- INFO -- Start Glances 2.3
+2018-04-23 20:09:24,819 -- INFO -- CPython 3.5.2 and PSutil 3.4.2 detected
+2018-04-23 20:09:24,821 -- INFO -- Read configuration file '/etc/glances/glances.conf'
+2018-04-23 20:09:24,821 -- INFO -- Start standalone mode
+2018-04-23 20:09:24,890 -- INFO -- Extended stats for top process are disabled (default behavior)
+2018-04-23 20:10:16,212 -- INFO -- Stop Glances
