@@ -6,11 +6,11 @@ Next Gig is a web scraper built with the Scrapy framework.  Its core feature inc
 ### Core Features
 1. Scrape date, title of job, and the url.
 
-![alt text](https://github.com/mattNat/python-web-scraper/master/images/craigslist-title.png)
+![alt text](https://raw.githubusercontent.com/mattNat/python-web-scraper/master/images/craigslist-title.png)
 
 2. In each url, scrape "compensation", "employment type", images, and description of job.
 
-![alt text](https://github.com/mattNat/python-web-scraper/master/images/craigslist-url.png)
+![alt text](https://raw.githubusercontent.com/mattNat/python-web-scraper/master/images/craigslist-url.png)
 
 3. Using Scrapy settings, output data to CSV and/or JSON to view on spreadsheet program. 
 
