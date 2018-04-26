@@ -5,7 +5,7 @@ import scrapy
 class JobsSpider(scrapy.Spider):
     name = 'jobs'
     allowed_domains = ['sandiego.craigslist.org']
-    start_urls = ['https://sandiego.craigslist.org/search/ofc']
+    start_urls = ['https://sandiego.craigslist.org/d/web-html-info-design/search/web']
 
     def parse(self, response):
         # listings = response.xpath('//a[@class="result-title hdrlnk"]/text()').extract()
